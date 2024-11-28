@@ -1,4 +1,6 @@
-# talento-tech Quero que esse projeto ajude os usuários a gerenciar e organizar suas atividades diárias
+# talento-tech Lista de tarefas
+
+Objetivo: Quero que esse projeto ajude os usuários a gerenciar e organizar suas atividades diárias
 
 Funcionalidades: Adicionar novas tarefas, Marcar tarefas como concluídas, Editar e excluir tarefas, Filtros para tarefas concluídas e pendentes.
 
